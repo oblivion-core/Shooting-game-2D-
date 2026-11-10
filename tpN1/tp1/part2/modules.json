@@ -1,0 +1,168 @@
+{
+    "S1": {
+        "U1_S1": {
+            "RCB": {
+                "unit_title": "Fondamentale1",
+                "module_title": "Réseaux des couches basses",
+                "coef": 3,
+                "credit": 6,
+                "percent_tp": 20.0,
+                "percent_td": 20.0,
+                "percent_exam": 60.0
+            },
+            "AlgoAv": {
+                "unit_title": "Fondamentale1",
+                "module_title": "Algorithmique Avancée et Complexité",
+                "coef": 2,
+                "credit": 4,
+                "percent_tp": 40.0,
+                "percent_td": 0.0,
+                "percent_exam": 60.0
+            }
+        },
+        "U2_S1": {
+            "SE": {
+                "unit_title": "Fondamentale2",
+                "module_title": "Système d’exploitation",
+                "coef": 2,
+                "credit": 4,
+                "percent_tp": 0.0,
+                "percent_td": 40.0,
+                "percent_exam": 60.0
+            },
+            "AMSI": {
+                "unit_title": "Fondamentale2",
+                "module_title": "Architectures Modernes des Systèmes Informatiques",
+                "coef": 2,
+                "credit": 4,
+                "percent_tp": 40.0,
+                "percent_td": 0.0,
+                "percent_exam": 60.0
+            }
+        },
+        "U3_S1": {
+            "AABD": {
+                "unit_title": "Méthodologie",
+                "module_title": "Architecture et administration des bases de données",
+                "coef": 2,
+                "credit": 4,
+                "percent_tp": 40.0,
+                "percent_td": 0.0,
+                "percent_exam": 60.0
+            },
+            "MTI": {
+                "unit_title": "Méthodologie",
+                "module_title": "Méthodes et Technologies d’Implémentation",
+                "coef": 3,
+                "credit": 5,
+                "percent_tp": 40.0,
+                "percent_td": 0.0,
+                "percent_exam": 60.0
+            }
+        },
+        "U4_S1": {
+            "scvv": {
+                "unit_title": "Découverte",
+                "module_title": "Systèmes de Communication  Vocaux et Vidéos",
+                "coef": 2,
+                "credit": 2,
+                "percent_tp": 40.0,
+                "percent_td": 0.0,
+                "percent_exam": 60.0
+            }
+        },
+        "U5_S1": {
+            "cloud": {
+                "unit_title": "Transversale",
+                "module_title": "Cloud Computing",
+                "coef": 1,
+                "credit": 1,
+                "percent_tp": 0.0,
+                "percent_td": 0.0,
+                "percent_exam": 100.0
+            }
+        }
+    },
+    "S2": {
+        "U1_S2": {
+            "Middleware": {
+                "unit_title": "Fondamentale1",
+                "module_title": "Les Middlewares pour les systèmes répartis",
+                "coef": 3,
+                "credit": 6,
+                "percent_tp": 20.0,
+                "percent_td": 20.0,
+                "percent_exam": 60.0
+            },
+            "MAL": {
+                "unit_title": "Fondamentale1",
+                "module_title": "Modélisation et Architectures logicielles",
+                "coef": 2,
+                "credit": 4,
+                "percent_tp": 40.0,
+                "percent_td": 0.0,
+                "percent_exam": 60.0
+            }
+        },
+        "U2_S2": {
+            "ResIP": {
+                "unit_title": "Fondamentale2",
+                "module_title": "Réseaux de la couche IP",
+                "coef": 3,
+                "credit": 6,
+                "percent_tp": 40.0,
+                "percent_td": 0.0,
+                "percent_exam": 60.0
+            },
+            "ML": {
+                "unit_title": "Fondamentale2",
+                "module_title": "Introduction au Machine Learning",
+                "coef": 2,
+                "credit": 4,
+                "percent_tp": 40.0,
+                "percent_td": 0.0,
+                "percent_exam": 60.0
+            }
+        },
+        "U3_S2": {
+            "Infog": {
+                "unit_title": "Méthodologique",
+                "module_title": "Infographie",
+                "coef": 2,
+                "credit": 3,
+                "percent_tp": 40.0,
+                "percent_td": 0.0,
+                "percent_exam": 60.0
+            },
+            "GI": {
+                "unit_title": "Méthodologique",
+                "module_title": "Gestion de l'incertain",
+                "coef": 2,
+                "credit": 3,
+                "percent_tp": 0.0,
+                "percent_td": 40.0,
+                "percent_exam": 60.0
+            }
+        },
+        "U4_S2": {
+            "IoT": {
+                "unit_title": "Découverte",
+                "module_title": "Internet of Things",
+                "coef": 2,
+                "credit": 3,
+                "percent_tp": 40.0,
+                "percent_td": 0.0,
+                "percent_exam": 60.0
+            },
+            "Sec": {
+                "unit_title": "Transversale",
+                "module_title": "Cybercriminalité",
+                "coef": 1,
+                "credit": 1,
+                "percent_tp": 0.0,
+                "percent_td": 0.0,
+                "percent_exam": 100.0
+            }
+        }
+    }
+}
